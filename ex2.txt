@@ -1,0 +1,4 @@
+point 1 "hello"
+
+Point 2 branch 1
+Point 3 branch 2
